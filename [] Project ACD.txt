@@ -1,0 +1,9 @@
+Project ACD:
+
+Project where commands are sent using phone wireless networks.
+Controlling home computer with phone
+
+-Save data to computer in certain folders
+-Turn on pc
+-Turn off pc
+-Activate certain programs indicating certain status
